@@ -1,0 +1,85 @@
+body{
+    padding: 0%;
+    padding-top: 0%;
+    margin: 0%;
+    border: 0%;
+    background-image: url("Imagenes/Background_Zeppelin.jpg")
+}
+
+#menu{
+    position: relative;
+    position: top;
+    width: 100%;
+    height: 200px;
+    background-color: black;
+    font-family: 'Spicy Rice', cursive;
+}
+
+#menu div ul{
+    padding: 0%;
+    margin: 0%;
+    border: 0%;
+}
+
+#menu div ul li{
+    list-style: none;
+    display: inline;
+    color:white;
+    float: left;
+    font-size: 25px;
+}
+
+.logo_menu{
+    padding-left: 10px;
+}
+
+#Reseña p{
+    font-family: 'Acme', sans-serif;
+    text-align: center;
+    letter-spacing: 3px;
+    background-color: black;
+    color: white;
+}
+
+.titulos {
+    font-family: 'Spicy Rice', cursive;
+    text-align: center;
+    font-size: 50px;
+}
+
+.tabla_integrantes{
+    font-family: 'Spicy Rice', sans-serif;
+    text-align: center;
+    font-size: 30px; 
+    float: left;
+    padding-left: 5px;
+    margin-left: 0%;
+    height: 100%;
+    width: 100%;
+}
+
+.columna_integrantes{
+    width: 25%-120px;
+    margin: 0%;
+    padding: 15px;
+    border-collapse: collapse;
+    background-color: black;
+    display: inline-block;
+}
+
+.imagen_integrantes{
+    width: 300px;
+    height: 300px;
+}
+
+.columna_integrantes, a, a:hover, a:visited{
+    text-decoration: none;
+    color: white;
+}
+
+    
+
+.historia{
+    clear: left;
+}
+
